@@ -20,8 +20,10 @@ public class ArquivoTest {
 	}
 	
 	public static void main(String[] args){
+		//Para testar troque a url ondde foi salvo seu projeto
+		//LogService.logService("C:\\Users\\kolarik\\git\\kolarik\\TesteAmil\\Log\\exemplo.txt");
 		
-		LogService.logService("C:\\Users\\kolarik\\Desktop\\exemplo.txt");
+		LogService.logService("C:\\Users\\kolarik\\git\\kolarik\\TesteAmil\\Log\\exemplo.txt");
 	}
 
 }
